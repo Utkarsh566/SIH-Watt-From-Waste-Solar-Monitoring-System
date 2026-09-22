@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="650" viewBox="0 0 1100 650">
+<rect width="1100" height="650" fill="white"/>
+<g font-family="Arial" text-anchor="middle">
+<rect x="60" y="70" width="210" height="90" fill="#eeeeee" stroke="#222" stroke-width="3"/><text x="165" y="110" font-size="24">Solar Panel</text><text x="165" y="138" font-size="15">V+ / V-</text>
+<rect x="360" y="50" width="210" height="100" fill="#eeeeee" stroke="#222" stroke-width="3"/><text x="465" y="92" font-size="24">ZMPT101B</text><text x="465" y="122" font-size="15">Voltage sensing</text>
+<rect x="360" y="220" width="210" height="100" fill="#eeeeee" stroke="#222" stroke-width="3"/><text x="465" y="262" font-size="24">ACS712</text><text x="465" y="292" font-size="15">Current sensing</text>
+<rect x="700" y="130" width="230" height="130" fill="#eeeeee" stroke="#222" stroke-width="3"/><text x="815" y="180" font-size="24">Arduino Nano</text><text x="815" y="212" font-size="15">Analog acquisition</text><text x="815" y="235" font-size="15">+ control</text>
+<rect x="700" y="350" width="230" height="100" fill="#eeeeee" stroke="#222" stroke-width="3"/><text x="815" y="392" font-size="24">ESP8266</text><text x="815" y="422" font-size="15">Wi-Fi / ThingSpeak</text>
+<rect x="60" y="390" width="230" height="100" fill="#eeeeee" stroke="#222" stroke-width="3"/><text x="175" y="432" font-size="22">Motor Driver</text><text x="175" y="462" font-size="15">Protected switching</text>
+<rect x="60" y="530" width="230" height="70" fill="#eeeeee" stroke="#222" stroke-width="3"/><text x="175" y="572" font-size="22">Vibration Motor</text>
+<g stroke="#222" stroke-width="4" fill="none">
+<path d="M270 115H360"/>
+<path d="M270 130 C330 130 300 270 360 270"/>
+<path d="M570 100 C650 100 650 160 700 160"/>
+<path d="M570 270 C650 270 650 220 700 220"/>
+<path d="M815 260V350"/>
+<path d="M700 400H290V440"/>
+<path d="M175 490V530"/>
+</g>
+<text x="550" y="620" font-size="15">Illustrative architecture — verify exact module pinout and electrical isolation before wiring.</text>
+</g></svg>

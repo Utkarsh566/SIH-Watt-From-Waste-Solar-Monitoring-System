@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="520" viewBox="0 0 1100 520">
+<rect width="1100" height="520" fill="white"/>
+<g font-family="Arial" text-anchor="middle">
+<rect x="60" y="190" width="180" height="90" rx="12" fill="#eeeeee" stroke="#222" stroke-width="3"/>
+<text x="150" y="230" font-size="24">Solar Panel</text><text x="150" y="258" font-size="15">Power source</text>
+<rect x="300" y="160" width="210" height="150" rx="12" fill="#eeeeee" stroke="#222" stroke-width="3"/>
+<text x="405" y="205" font-size="22">Sensors</text><text x="405" y="238" font-size="15">ACS712 current</text><text x="405" y="264" font-size="15">ZMPT101B voltage</text>
+<rect x="570" y="190" width="170" height="90" rx="12" fill="#eeeeee" stroke="#222" stroke-width="3"/>
+<text x="655" y="230" font-size="24">Arduino Nano</text><text x="655" y="258" font-size="15">Acquisition</text>
+<rect x="800" y="190" width="170" height="90" rx="12" fill="#eeeeee" stroke="#222" stroke-width="3"/>
+<text x="885" y="230" font-size="24">ESP8266</text><text x="885" y="258" font-size="15">Wi-Fi / IoT</text>
+<path d="M240 235H300M510 235H570M740 235H800" stroke="#222" stroke-width="4"/>
+<rect x="420" y="380" width="260" height="80" rx="12" fill="#eeeeee" stroke="#222" stroke-width="3"/>
+<text x="550" y="415" font-size="23">ThingSpeak</text><text x="550" y="442" font-size="15">Cloud dashboard</text>
+<path d="M885 280 C885 350 680 350 680 400" stroke="#222" stroke-width="4" fill="none"/>
+<rect x="60" y="380" width="240" height="80" rx="12" fill="#eeeeee" stroke="#222" stroke-width="3"/>
+<text x="180" y="415" font-size="22">Vibration + Motor</text><text x="180" y="442" font-size="15">Waterless cleaning</text>
+<path d="M150 280V380" stroke="#222" stroke-width="4"/>
+</g></svg>
