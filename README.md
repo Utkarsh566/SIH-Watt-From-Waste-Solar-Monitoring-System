@@ -1,14 +1,11 @@
-# Results
+# Software / Analytics
 
-Add validated prototype results here.
+This directory contains local analytics utilities that can be used with exported ThingSpeak data.
 
-Recommended:
+The goal is to inspect:
 
-- ThingSpeak screenshots
-- Voltage/current plots
-- Power trend plots
-- Before/after cleaning observations
-- Sensor calibration results
-- Prototype photographs
-
-Do not present simulated or illustrative values as measured hardware results.
+- Voltage trends
+- Current trends
+- Power trends
+- Changes over time
+- Potential maintenance conditions
