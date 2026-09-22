@@ -1,12 +1,14 @@
-# Firmware
+# Results
 
-This folder contains the firmware structure for the solar monitoring prototype.
+Add validated prototype results here.
 
-## Controller architecture
+Recommended:
 
-- Arduino Nano: sensor acquisition/control
-- ESP8266: Wi-Fi and ThingSpeak communication
+- ThingSpeak screenshots
+- Voltage/current plots
+- Power trend plots
+- Before/after cleaning observations
+- Sensor calibration results
+- Prototype photographs
 
-## Important
-
-The exact analog calibration constants depend on the physical sensor modules and the final prototype wiring. Validate the sensor output experimentally before using the measurements as calibrated engineering values.
+Do not present simulated or illustrative values as measured hardware results.
